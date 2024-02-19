@@ -1,15 +1,15 @@
 
 body {
-  background-color: snow;
+  background-color: seashell;
   font-size: 22px;
 }
 h1 {
   color: slategrey;
-  background-color: snow;
+  background-color: seashell;
    }
 p {
   color: slategrey;
-  background-color: snow;
-  border: 2px solid blue;
+  background-color: seashell;
+  border: 2px silver;
   padding: 30px;
 }

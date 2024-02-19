@@ -4,5 +4,11 @@ body {
   font-family: 'Fira Code';
   font-size: 22px;
 }
-h1 {color: blue;}
-p {color: red;}
+h1 {
+  color: blue;
+  font-family: 'Fira Code';
+   }
+p {
+  color: red;
+  font-family: 'Fira Code';
+}

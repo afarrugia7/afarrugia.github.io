@@ -1,13 +1,15 @@
 
 body {
-  background-color: powderblue;
+  background-color: snow;
   font-size: 22px;
 }
 h1 {
-  color: blue;
+  color: slategrey;
+  background-color: snow;
    }
 p {
-  color: red;
+  color: slategrey;
+  background-color: snow;
   border: 2px solid blue;
   padding: 30px;
 }

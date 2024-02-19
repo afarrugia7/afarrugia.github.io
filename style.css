@@ -1,16 +1,13 @@
-<link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
+
 body {
   background-color: powderblue;
-  font-family: 'Fira Code';
   font-size: 22px;
 }
 h1 {
   color: blue;
-  font-family: 'Fira Code';
    }
 p {
   color: red;
   border: 2px solid blue;
-  font-family: 'Fira Code';
   padding: 30px;
 }

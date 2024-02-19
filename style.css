@@ -11,4 +11,6 @@ h1 {
 p {
   color: red;
   font-family: 'Fira Code';
+  border: 2px solid blue;
+  padding: 30px;
 }
